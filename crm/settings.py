@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     "common",
     "accounts",
     "cases",
+    "campaigns",
     "contacts",
     "emails",
     "leads",
